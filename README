@@ -1,0 +1,12 @@
+Welcome to the Jogo da Velha (Tic Tac Toe) game!
+
+Install dependencies with:
+<code>npm install</code>
+
+Run the game with:
+<code>npm run start</code>
+
+In the game, you play against a friend in the same computer. 
+The game is played in the terminal.
+
+Good Lucky! And May the Force be with you!
